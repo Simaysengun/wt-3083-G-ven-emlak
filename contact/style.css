@@ -1,0 +1,12 @@
+#bg-color {
+    background-color:rgb(65, 89, 63) ;
+  }
+  .text-color{
+   
+    background-color:rgb(65, 89, 63) ;
+    color:white;
+    padding:2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 4px;
+ }
